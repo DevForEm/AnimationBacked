@@ -68,7 +68,7 @@ public abstract partial class VideoTask
     }
 
     /// <summary>
-    /// 获取文件前16MD的hash值
+    /// 获取文件前16MB的hash值
     /// </summary>
     /// <param name="file">文件 </param>
     /// <returns>hash值</returns>
